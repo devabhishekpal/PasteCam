@@ -1,0 +1,6 @@
+server/PasteCam
+.vscode
+__pycache__
+server/*.png
+server/*.jpg
+processedImages
